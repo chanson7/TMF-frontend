@@ -1,8 +1,21 @@
-# Welcome to your Expo app 👋
+<a id="readme-top"></a>
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# TMF | Mobile App
 
-## Get started
+This is an [Expo](https://expo.dev) project used by the [Theodore Madison Foundation][tmf-url] Mobile Application. It is built to be used with
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+### Built With
+
+[![react-native]][react-native-url]
+[![expo]][expo-url]
+[![graphql]][graphql-url]
+
+<!-- GETTING STARTED -->
+## Getting started
 
 1. Install dependencies
 
@@ -13,7 +26,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Start the app
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
 In the output, you'll find options to open the app in a
@@ -23,28 +36,14 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<!-- MARKDOWN LINKS & IMAGES -->
+[expo]: https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white
+[expo-url]: https://expo.dev
+[graphql-url]: https://graphql.org/
+[graphql]: https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white
+[graphql-url]: https://graphql.org/
+[react-native]: https://img.shields.io/badge/reactnative-3DDC84?style=for-the-badge&logo=react&logoColor=white
+[react-native-url]: https://reactnative.dev/
+[tmf-url]: https://theodoremadisonfoundation.org/
