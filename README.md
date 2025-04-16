@@ -3,7 +3,7 @@
 
 # TMF | Mobile App
 
-This is an [Expo](https://expo.dev) project used by the [Theodore Madison Foundation][tmf-url] Mobile Application. It is built to be used with
+This is an [Expo](https://expo.dev) project used by the [Theodore Madison Foundation][tmf-url] Mobile Application.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
