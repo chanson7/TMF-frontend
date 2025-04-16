@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-# TMF | Mobile App
+# TMF | Mobile App Front End
 
 This is an [Expo](https://expo.dev) project used by the [Theodore Madison Foundation][tmf-url] Mobile Application.
 
